@@ -9,6 +9,6 @@ $fahrrad->setFarbe("blau");
 $fahrrad->setVerkaeuferVorname("Hans");
 $fahrrad->setVerkaeuferNachname("Müller");
 
-$fahrrad=null;
+//$fahrrad=null;
 
 var_dump($fahrrad);
